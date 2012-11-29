@@ -1,3 +1,4 @@
 # "temporary" build files
 /target
 /target-eclipse
+.DS_Store
